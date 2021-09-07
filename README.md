@@ -1,6 +1,10 @@
 ### Hi there 👋
 ### I'm ViavaCos. Nice to meet you!😄
 
+![Stats](https://github-readme-stats.vercel.app/api?username=ViavaCos&show_icons=true&theme=outrun)  
+<!-- ![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=ViavaCos&layout=compact&show_icons=true&theme=outrun)   -->
+![TopLangs](https://github-readme-stats.vercel.app/api/top-langs?username=ViavaCos&layout=compact&show_icons=true&theme=outrun)  
+
 <!--
 **ViavaCos/ViavaCos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
